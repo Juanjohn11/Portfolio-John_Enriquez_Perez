@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Portfolio-John_Enriquez_Perez/static/css/main.5058d40b.css",
+    "main.js": "/Portfolio-John_Enriquez_Perez/static/js/main.692c69b0.js",
+    "static/js/787.b2e1b36e.chunk.js": "/Portfolio-John_Enriquez_Perez/static/js/787.b2e1b36e.chunk.js",
+    "static/media/runbuddy.png": "/Portfolio-John_Enriquez_Perez/static/media/runbuddy.8559c93c11bd8fda9362.png",
+    "static/media/consolethis.png": "/Portfolio-John_Enriquez_Perez/static/media/consolethis.f4483705c63a1e453b3d.png",
+    "static/media/CHK.jpeg": "/Portfolio-John_Enriquez_Perez/static/media/CHK.bbcb4a3d9b313faf2877.jpeg",
+    "static/media/artmart.png": "/Portfolio-John_Enriquez_Perez/static/media/artmart.9144802ac8903da234dc.png",
+    "index.html": "/Portfolio-John_Enriquez_Perez/index.html",
+    "main.5058d40b.css.map": "/Portfolio-John_Enriquez_Perez/static/css/main.5058d40b.css.map",
+    "main.692c69b0.js.map": "/Portfolio-John_Enriquez_Perez/static/js/main.692c69b0.js.map",
+    "787.b2e1b36e.chunk.js.map": "/Portfolio-John_Enriquez_Perez/static/js/787.b2e1b36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5058d40b.css",
+    "static/js/main.692c69b0.js"
+  ]
+}
